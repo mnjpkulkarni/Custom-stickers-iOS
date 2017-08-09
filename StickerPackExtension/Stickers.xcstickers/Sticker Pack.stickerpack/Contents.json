@@ -1,4 +1,33 @@
 {
+  "stickers" : [
+    {
+      "filename" : "Supernatrual.sticker"
+    },
+    {
+      "filename" : "theflash.sticker"
+    },
+    {
+      "filename" : "got.sticker"
+    },
+    {
+      "filename" : "Arrow.sticker"
+    },
+    {
+      "filename" : "gotham.sticker"
+    },
+    {
+      "filename" : "breakingbad.sticker"
+    },
+    {
+      "filename" : "twd.sticker"
+    },
+    {
+      "filename" : "blacksails.sticker"
+    },
+    {
+      "filename" : "Sticker Sequence.stickersequence"
+    }
+  ],
   "info" : {
     "version" : 1,
     "author" : "xcode"
